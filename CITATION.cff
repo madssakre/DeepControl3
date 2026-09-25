@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Clipped DeepControl"
+version: "3.0"
+date-released: "2022-11-18"
+license: GPL-3.0-or-later
+authors:
+  - family-names: Vinding
+    given-names: Mads Sloth
+    affiliation: Aarhus University
+  - family-names: Lund
+    given-names: Torben Ellegaard
+    affiliation: Aarhus University
+keywords:
+  - MRI
+  - RF pulse design
+  - deep learning
+  - MATLAB
+preferred-citation:
+  type: article
+  title: "Clipped DeepControl: Deep neural network two-dimensional pulse design with an amplitude constraint layer"
+  authors:
+    - family-names: Vinding
+      given-names: Mads Sloth
+    - family-names: Lund
+      given-names: Torben Ellegaard
+  journal: "Artificial Intelligence in Medicine"
+  volume: 135
+  start: 102460
+  year: 2023
+  doi: "10.1016/j.artmed.2022.102460"
